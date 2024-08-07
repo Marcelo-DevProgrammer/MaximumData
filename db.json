@@ -1,0 +1,71 @@
+{
+  "produtos": [
+    {
+      "id": "8ab6",
+      "nome": "Fone ",
+      "quantidade": 1,
+      "data": "2024-08-06"
+    },
+    {
+      "id": "55b9",
+      "nome": "Imposto de Renda",
+      "quantidade": 30,
+      "data": "2024-08-05"
+    },
+    {
+      "id": "3fde",
+      "nome": "Emitir NF ",
+      "quantidade": 999,
+      "data": "2024-08-05"
+    },
+    {
+      "id": "8c2d",
+      "nome": "Iphone15",
+      "quantidade": 10,
+      "data": "2024-08-06"
+    },
+    {
+      "id": "3036",
+      "nome": "oi",
+      "quantidade": 1,
+      "data": "2024-08-07"
+    }
+  ],
+  "vendas": [
+    {
+      "id": "fe0f",
+      "produtoId": 8,
+      "quantidade": 999,
+      "data": "2024-08-06",
+      "valor": 100000
+    },
+    {
+      "id": "9751",
+      "produtoId": 3,
+      "quantidade": 1,
+      "data": "2024-08-06",
+      "valor": 8000
+    },
+    {
+      "id": "a7c1",
+      "produtoId": 3036,
+      "quantidade": 1234567889,
+      "data": "2024-08-22",
+      "valor": 1000
+    }
+  ],
+  "saidas": [
+    {
+      "id": "3b83",
+      "tipo_saida": "Água",
+      "valor": 100000000,
+      "data": "2024-08-07"
+    },
+    {
+      "id": "5290",
+      "tipo_saida": "Aluguel",
+      "valor": 1900,
+      "data": "2024-08-06"
+    }
+  ]
+}
